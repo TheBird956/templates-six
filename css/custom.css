@@ -6,3 +6,76 @@
     defined here.
 
 ***************************************************** */
+
+.home-shortcuts,
+	.navbar-main
+{
+	background-color:#e8572b;
+}
+
+ul.top-nav>li.primary-action>a.btn
+{
+    background-color:#e8572b;
+}
+
+.btn.btn-action
+{
+    border-color:#cecece;
+}
+
+section#home-banner .btn.search
+{
+    background-color:#e8572b;
+}
+
+.home-shortcuts li,
+	.home-shortcuts li:first-child
+{
+	border-color:#fff;
+}
+
+a.list-group-item.active,
+	a.list-group-item.active:focus,
+	a.list-group-item.active:hover
+{
+	background-color:#e8572b;
+}
+
+.list-group-item.active,
+	.list-group-item.active:focus,
+	.list-group-item.active:hover
+{
+	border-bottom-color:transparent;
+}
+
+section#footer p
+{
+	border-color:#e8572b;
+}
+
+section#home-banner
+{
+	background-color:#333;
+}
+
+.btn-info
+{
+	background-color:#2f79d4;
+	border-color:#2f79d4;
+}
+
+	.btn-info:hover
+	{
+		background-color:#3081e4;
+		border-color:#2f79d4;
+	}
+
+section#header .logo img
+{
+    max-height:75px;
+}
+
+ul.top-nav
+{
+    margin:20px 0;
+}
